@@ -9,6 +9,9 @@
 */
 
 /* Basic */
+	html {
+		scroll-behavior: smooth;
+	}
 
 	body {
 		background: #fff;
@@ -957,7 +960,7 @@
 /* Banner */
 
 	#banner {
-		background: url("images/overlay.png"), url("../images/banner.jpg");
+		background: url("images/overlay.png"), url("https://images.unsplash.com/photo-1506535995048-638aa1b62b77?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f3e3ff1cce6d43ff22a50a83269f07ac&auto=format&fit=crop&w=1500&q=80");
 		background-position: center;
 		background-repeat: no-repeat;
 		background-size: cover;
